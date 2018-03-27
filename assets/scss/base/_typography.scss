@@ -52,13 +52,12 @@ p {
 a {
   color: $action-color;
   text-decoration: none;
-  transition: color $base-duration $base-timing;
 
   &:active,
   &:focus,
   &:hover {
-    color: #fff;
-    background-color: #ff0052;
+    color: #f8f8f2;
+    background-color: #ff79c6;
   }
 }
 
@@ -93,7 +92,8 @@ code {
   font-size: 1em;
   margin: 0;
   padding: 0 5px;
-  background-color: lighten($light-gray-color, 13%);
+  color: 282a36;
+  background-color: #6272a4;
 }
 
 pre {
