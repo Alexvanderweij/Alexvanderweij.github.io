@@ -56,7 +56,7 @@ hr {
 
 .link {
   color: $blue-color;
-  padding-bottom: .05em;
+  padding-bottom: .07em;
   border-bottom: 2px solid transparent;
 
   @include transition(border 300ms linear);
@@ -64,7 +64,7 @@ hr {
   &:hover,
   &:focus,
   &:active {
-    border-bottom: 2px solid $blue-color;
+  
   }
 }
 
@@ -93,12 +93,12 @@ hr {
 .logo {
   float: left;
   margin: 0 0 1em 0;
-  cursor: pointer;
   letter-spacing: 0.8px;
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
   Background-color: #ff0052;
+  padding: 5px;
 
   span {
     font-weight: 700;
@@ -144,7 +144,7 @@ hr {
   display: block;
 
   a {
-    color: $action-color;
+    color: #f8f8f2;
     font-weight: bold;
   }
 
@@ -165,7 +165,7 @@ hr {
 }
 
 .post-meta {
-  color: $medium-gray-color;
+  color: #bd93f9;
   text-transform: uppercase;
   display: inline-block;
   letter-spacing: 1px;
@@ -176,7 +176,7 @@ hr {
 .post-title {
   margin-top: 0;
   margin-bottom: 2em;
-  color: $dark-gray-color;
+  color: #f8f8f2;
 }
 
 .post-link,
@@ -212,7 +212,7 @@ hr {
   p {
     margin: 0;
     font-size: rem(14);
-    color: $medium-gray-color;
+    color: #f8f8f2;
   }
 }
 
