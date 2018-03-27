@@ -50,8 +50,8 @@ gems:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
+  - slug : Over mij
+    title: Over mij
   - slug : blog
     title: Blog
 
