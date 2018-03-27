@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Over
+permalink: /over/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hoi! 
+
+**Bedankt**
+
+- Dracula theme
+- Jekyll
