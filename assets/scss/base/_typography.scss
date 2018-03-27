@@ -78,10 +78,8 @@ picture {
 blockquote {
   padding: 0 0 0 $base-spacing;
   margin: $base-spacing 0;
-  color: $dark-gray-color;
+  color: #50fa7b;
   line-height: 1.8;
-  border-left: $small-spacing solid $light-gray-color;
-  background-color: lighten($light-gray-color, 15%)
 }
 
 code {
@@ -93,7 +91,7 @@ code {
   margin: 0;
   padding: 0 5px;
   color: 282a36;
-  background-color: #6272a4;
+  background-color: #ff79c6;
 }
 
 pre {
