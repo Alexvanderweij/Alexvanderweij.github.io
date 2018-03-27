@@ -9,7 +9,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
+repo: 
 disqus_shortname: "hnbloggithub"
 twitter_username: "Alxndrr"
 comments: false
@@ -34,11 +34,10 @@ author:
   bio      : "Bio"
   thumb    : /images/author.jpg
   email    : Alexvanderweij@gmail.com
-  url      : http://heiswayi.github.io
+  url      : http://alxndrr.xyz
   github   : http://www.alexvanderweij.nl
   twitter  : http://twitter.com/Alxndrr
   facebook : https://www.facebook.com/Alexvanderweij
-  linkedin : http://linkedin.com/in/nrird
 
 # social settings
 og_locale: "en_US"
