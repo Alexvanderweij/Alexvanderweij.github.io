@@ -2,7 +2,7 @@
 # SEO settings
 title: "Alxndrr"
 title2: "" # default: ""
-description: "Seriekoning"
+description: ""
 keywords: "Alxndrr, series, televisie, films, games, tech"
 url: http://alexvanderweij.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
