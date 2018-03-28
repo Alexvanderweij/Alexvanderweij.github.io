@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,900');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
 
 body {
@@ -23,15 +23,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font-family;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
   font-size: $base-font-size;
   line-height: $heading-line-height;
   margin: $small-spacing 0 $small-spacing 0;
-  font-weight: 700;
 }
 
 h1 {
   font-size: rem(30);
+ 
 }
 
 h2 {
