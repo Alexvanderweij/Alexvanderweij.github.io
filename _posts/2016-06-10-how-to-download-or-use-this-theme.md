@@ -2,7 +2,7 @@
 layout: post
 title: "How to Download or Use This Theme 💪"
 comments: true
-categories: Films
+category: Films
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
 ---
