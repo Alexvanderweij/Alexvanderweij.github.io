@@ -10,7 +10,7 @@ title: Home
     {% for post in site.posts %}
        <article class="post-item">
          <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-         <span class="post-meta date-label">alex {{ ct }}</span>
+         <span class="post-meta date-label">alexander {{ page.categories | join: ', ' }}</span>
       </article>
     {% endfor %}
    </div>
