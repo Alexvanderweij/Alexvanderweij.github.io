@@ -67,6 +67,11 @@ hr {
   }
 }
 
+p a {
+  box-shadow: 0 1px 0 0 #50fa7b; }
+  p a:hover {
+    box-shadow: none; }
+
 .site-header {
   border-bottom: 0px solid lighten($light-gray-color, 5%);
   margin-bottom: $small-spacing;
@@ -138,7 +143,7 @@ hr {
 
 
 .post-item {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   display: block;
 
   a {
@@ -278,7 +283,7 @@ hr {
 
   .post-item {
 	  
-	  margin-bottom: 15px;
+	  margin-bottom: 1.5em;
    
   }
 
