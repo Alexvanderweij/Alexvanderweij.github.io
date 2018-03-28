@@ -129,6 +129,8 @@ hr {
 }
 
 .post-list {
+	
+	margin-bottom: 10px;
 
 }
 
@@ -146,12 +148,12 @@ hr {
 
   a {
     color: #f8f8f2;
-    font-weight: bold;
+    
   }
 
   .article-title {
     display: inline-block;
-    width: 85%;
+    width: 95%;
     //border-bottom: 1px dashed lighten($light-gray-color, 10%);
   }
 
