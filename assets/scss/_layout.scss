@@ -271,10 +271,16 @@ p a {
 
 // This applies from 0px to 600px
 
-
+@media (max-width: 250px) {
+  .date-label {
+    float: left !important;
+    border: 0 !important;
+    margin-left: -2px !important;
+    margin-top: 2px;
+    margin-right: 1em;
+  }
   .post-item {
-	  
-	  margin-bottom: 1.5em;
+	  margin-bottom: 2.5em;
    
   }
 
