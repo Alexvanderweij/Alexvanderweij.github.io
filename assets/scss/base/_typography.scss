@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+
 body {
   color: $base-font-color;
-  font-family: $base-font-family;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   //font-feature-settings: "kern", "liga", "pnum";
   font-size: $base-font-size;
   line-height: $base-line-height;
