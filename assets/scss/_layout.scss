@@ -101,7 +101,7 @@ p a {
   text-transform: uppercase;
   margin: 0 0 1em 0;
   letter-spacing: 0.8px;
-  font-size: 20px;
+  font-size: 26px;
   line-height: 28px;
   color: #50fa7b;
   padding: 0 3 0 3px;
@@ -112,6 +112,8 @@ p a {
 }
 
 .logo a {color: #50fa7b;}
+.logo a:hover, a:focus, a:active {color: #50fa7b;}
+
 
 .nav {
   min-height: 64px;
