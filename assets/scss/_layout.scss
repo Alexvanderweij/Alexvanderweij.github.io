@@ -96,13 +96,14 @@ p a {
 
 .logo {
   float: left;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
   margin: 0 0 1em 0;
   letter-spacing: 0.8px;
   font-size: 20px;
   line-height: 28px;
-  font-weight: 300;
-  color: #f8f8f2;
-  background-color: #50fa7b;
+  color: #50fa7b;
   padding: 0 3 0 3px;
 
   span {
@@ -110,7 +111,7 @@ p a {
   }
 }
 
-.logo a {color: #f8f8f2;}
+.logo a {color: #50fa7b;}
 
 .nav {
   min-height: 64px;
