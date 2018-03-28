@@ -13,12 +13,6 @@ line-height: 32px;
 
 }
 
-.lead {
-
-font-size: 18px;
-
-}
-
 h1,
 h2,
 h3,
@@ -57,7 +51,7 @@ p {
   margin: 0 0 $small-spacing;
 
   &.lead {
-    font-size: rem(22);
+    font-size: rem(18);
     font-weight: 300;
   }
 }
