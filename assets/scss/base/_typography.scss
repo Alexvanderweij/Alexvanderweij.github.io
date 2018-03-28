@@ -83,6 +83,15 @@ picture {
   max-width: 100%;
 }
 
+/* Selection styling */
+::selection {
+  background: #50fa7b;
+  color: #fff; }
+
+::-moz-selection {
+  background: #50fa7b;
+  color: #fff; }
+
 blockquote {
   color: #50fa7b;
   line-height: 1.8;
