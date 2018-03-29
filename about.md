@@ -7,8 +7,8 @@ Ik ben Alex en dit is al de zoveelste keer dat ik een blog start; laten we het `
 
 Je kunt me natuurlijk ook lekker volgen op de socials. Ik ben vooral actief op Twitter en Instagram:
 
-- @Alxndrr
-- Instagram
+- [@Alxndrr](http://www.twitter.com/Alxndrr)
+- [Instagram](http://www.instagram.com/Alxndrr7)
 
 #### Bedankt hé!
-Deze blog draait op [Jekyll](http://www.jekyll.com) en heb ik in een avondje in elkaar gedraaid dankzij het _open source_ thema [Thinkspace](#). De kleuren zijn gebaseerd op [Dracula Theme](#). 
+Deze blog draait op [Jekyll](http://www.jekyll.com) en heb ik in een avondje in elkaar gedraaid dankzij het _open source_ thema [Thinkspace](https://heiswayi.nrird.com/thinkspace/). De kleuren zijn gebaseerd op [Dracula Theme](https://draculatheme.com/). 
