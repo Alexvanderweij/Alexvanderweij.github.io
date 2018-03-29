@@ -8,9 +8,8 @@ url: http://alexvanderweij.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
-repo: 
-disqus_shortname: "hnbloggithub"
+google_analytics: UA-116543197-1
+repo: http://alexvanderweij.github.com/
 twitter_username: "Alxndrr"
 comments: false
 
@@ -50,8 +49,8 @@ gems:
 
 # navbar pages
 navbar:
-  - slug : Over mij
-    title: Over mij
+  - slug : Over
+    title: Over
   - slug : blog
     title: Blog
 
