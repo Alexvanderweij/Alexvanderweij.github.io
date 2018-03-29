@@ -4,7 +4,7 @@ permalink: /lijstjes/
 title: Lijstjes
 ---
 
-<p>De ``X`` beste ``Y``!!</p>
+<p>De <code>X</code> beste <code>Y</code>!!</p>
 <div id="archives">
 {% for post in site.categories.Lijstjes %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
