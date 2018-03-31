@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Van Helsing review 🦇"
+title: "Van Helsing review 率"
 comments: false
 published: true
 categories: 
