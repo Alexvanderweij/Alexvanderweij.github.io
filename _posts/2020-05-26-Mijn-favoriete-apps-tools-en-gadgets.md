@@ -23,6 +23,10 @@ regelbreek
 regelbreek  
 
 ### Drie
+Dit is een mooi stukje tekst met een lange zinsopbouw die bedoelt is om even te checken wat er gedaan moet worden, zodat de typografie gewoon netjes is. Dit kan betekenen dat er meer geschreven is dan
+de bedoeling is, want er zit nu welliswaar een regelbreek in, maar niet eentje die hard geencode moet worden in de basis.  
+
+Dit is dan dus wel een nieuwe alinea. Even kijken wat de spacing is. Op telefoon moet het goed zijn. Wat ik nog meer wil aanpassen is het lettertype. Dit wil ik voor beiden instances doen.
 
 #### Vier
 
