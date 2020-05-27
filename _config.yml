@@ -14,7 +14,7 @@ twitter_username: "Alxndrr"
 comments: false
 
 # Build settings
-permalink   : /:year/:title/
+permalink   : /:title/
 markdown    : kramdown
 highlighter : rouge
 
