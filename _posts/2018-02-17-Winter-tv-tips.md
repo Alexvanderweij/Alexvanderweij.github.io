@@ -4,8 +4,8 @@ title: "Vier serietips voor een koude winterdag ⛄"
 comments: false
 published: true
 categories: 
-- "Films"
-description: "4 series die je moet kijken, omdat het te koud is om naar buiten te gaan"
+- "Series"
+description: "Vier series die je moet kijken, omdat het te koud is om naar buiten te gaan"
 keywords: "Review, series, recensie, Alex van der Weij"
 ---
 
