@@ -25,9 +25,12 @@ Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het 
 
 ### Abonnementen
 - `Netflix, Prime Video en Disney+` – Wat zou ik toch zonder deze streamingdiensten moeten kijken?!
-- `Seedboxes.cc` – Voor alles dat nog niet ergens te streamen is 👀
+- `Seedboxes.cc` – Voor alles dat nog niet ergens te streamen is 👀 [^2]
 
 ### Overigen
-- `Peak Design Every Day Bag` – Mijn rugtas van keuze. Belachelijk duur, maar dankzij alle opbergmogelijkheden onmisbaar geworden. 
+- `Peak Design Every Day Bag` – Mijn rugtas van keuze. Belachelijk duur, maar dankzij alle opbergmogelijkheden onmisbaar geworden. [^3] 
 
-[^1]: De Arc zou overkill zijn voor in mijn huis, dus dit is goed.
+--- 
+[^1] De Arc zou overkill zijn voor in mijn huis, dus dit is goed.
+[^2] 🤫🤫🤫
+[^3] Door Covid-19 en de lockdown wel een stuk meer overbodig geworden.
