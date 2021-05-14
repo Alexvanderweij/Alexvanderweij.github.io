@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-family: 'Rubik', sans-serif;
-  font-weight: 900;
+  font-weight: 600;
   font-size: $base-font-size;
   line-height: $heading-line-height;
   margin: $small-spacing 0 $small-spacing 0;
@@ -36,7 +36,7 @@ h1 {
   color: #624b89;
   font-size: rem(30);
   font-family: 'Rubik', sans-serif;
-  font-weight: 900;
+  font-weight: 600;
  
 }
 
@@ -44,14 +44,14 @@ h2 {
   color: #624b89;
   font-size: rem(32);
   font-family: 'Rubik', sans-serif;
-  font-weight: 900;
+  font-weight: 600;
 }
 
 h3 {
   color: #624b89;
   font-size: rem(24);
   font-family: 'Rubik', sans-serif;
-  font-weight: 900;
+  font-weight: 600;
 }
 
 h4 {
@@ -80,7 +80,7 @@ p {
 }
 
 a {
-  color: #2c1b33;
+  color: #f6e9c9;
   text-decoration: none;
 
   
@@ -90,8 +90,7 @@ a {
   &:active,
   &:focus,
   &:hover {
-    color: #fff;
-    background-color: #f64b72;
+
   }
 }
 
