@@ -19,7 +19,7 @@ Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het 
 ### Gadgets
 - **Macbook Pro M1** – De beste laptop die ik ooit heb gehad. Ook fijn dat je er iOS apps op kunt gebruiken.
 - **iPhone 12 mini** – Een kleine iPhone met doet terugdenken aan de klassieke iPhone 5. Een perfect toestel.
-- **Sonos Beam** – Bij een fijne TV hoort nu eenmaal goed geluid. De Arc zou overkill zijn voor in mijn huis, dus dit is goed.
+- **Sonos Beam** – Bij een fijne TV hoort nu eenmaal goed geluid. [^1]
 - **AirPods 2** – Ik heb alle modelen van de AirPods gehad, inclusief de Pro's, maar versie twee blijft voor mij het fijnst.
 - **PlayStation 4** – Fifa, Call of Duty, GTA.. zolang ik die games nog kan spelen, hoef ik geen PS5.
 
@@ -29,3 +29,5 @@ Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het 
 
 ### Overigen
 - **Peak Design Every Day Bag** – Mijn rugtas van keuze. Belachelijk duur, maar dankzij alle opbergmogelijkheden onmisbaar geworden. 
+
+[^1]: De Arc zou overkill zijn voor in mijn huis, dus dit is goed.
