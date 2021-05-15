@@ -14,7 +14,7 @@ Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het 
 **Laatste update:** *mei 2021*
 
 ### Apps
-- **Tweetbot** – Ik gebruik Twitter graag, maar de officiele app zit vol met reclame en functies die ik nooit gebruik. <a href="https://itunes.apple.com/us/app/tweetbot-6-for-twitter/id1527500834?mt=8">Tweetbot</a> is gestroomlijnd.
+- **Tweetbot** `app` – Ik gebruik Twitter graag, maar de officiele app zit vol met reclame en functies die ik nooit gebruik. <a href="https://itunes.apple.com/us/app/tweetbot-6-for-twitter/id1527500834?mt=8">Tweetbot</a> is gestroomlijnd.
 - **Sofa** – <a href="https://itunes.apple.com/app/id1276554886">Perfecte app</a> om lijstjes van entertainment bij te houden. Denk aan films die je wil kijken, games die je wil spelen of boeken die je wil lezen.
 
 ### Gadgets
