@@ -47,6 +47,7 @@ h2 {
   font-size: rem(32);
   font-family: 'Fira Code', monospace;
   font-weight: 600;
+  margin-top: 25px;
 }
 
 h3 {
@@ -185,5 +186,9 @@ li.footnotes {
 }
 
 .footnotes {
-font-size: 12px;
+
+ 	font-family: 'Fira Code', monospace;
+  	font-weight: 600;
+	font-size: 12px;
+	
 }
