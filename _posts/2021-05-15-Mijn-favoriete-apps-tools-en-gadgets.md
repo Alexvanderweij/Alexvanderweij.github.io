@@ -31,7 +31,7 @@ Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het 
 ### Overigen
 - **Peak Design Every Day Bag** `rugtas` – Mijn rugtas van keuze. Belachelijk duur, maar dankzij alle opbergmogelijkheden onmisbaar geworden. [^3] 
 
----
+<hr>
 [^1]: De Arc zou overkill zijn voor in mijn huis, dus dit is goed.
 [^2]: 🤫🤫🤫
 [^3]: Door Covid-19 en de lockdown wel een stuk meer overbodig geworden.
