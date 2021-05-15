@@ -10,7 +10,8 @@ keywords: "Gadgets, iPhone, technologie, apps, iOS, AppStore"
 ---
 
 Dit is een lopend lijstje met alle apps, tools en gadgets die ik gebruik om het leven net even iets fijner te maken.
-*Laatste update: mei 2021*
+
+**Laatste update:** *mei 2021*
 
 ### Apps
 - **Tweetbot** – Ik gebruik Twitter graag, maar de officiele app zit vol met reclame en functies die ik nooit gebruik. <a href="https://itunes.apple.com/us/app/tweetbot-6-for-twitter/id1527500834?mt=8">Tweetbot</a> is gestroomlijnd.
