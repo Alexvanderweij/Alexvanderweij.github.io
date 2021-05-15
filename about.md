@@ -10,8 +10,9 @@ Ik ben ``Alex`` en dit is al de zoveelste keer dat ik een blog start; *laten we 
 ### Socials
 Je kunt me natuurlijk ook lekker volgen op de socials. Ik ben vooral actief op Twitter en Instagram.
 
-🐦 [@Alxndrr](http://www.twitter.com/Alxndrr)
-📸 [Instagram](http://www.instagram.com/Alxndrr7)
+- 🐦 [@Alxndrr](http://www.twitter.com/Alxndrr)
+- 📸 [Instagram](http://www.instagram.com/Alxndrr7)
+- 🎬 [Letterboxd](https://letterboxd.com/Alxndrr/)
 
 
 
@@ -19,8 +20,8 @@ Je kunt me natuurlijk ook lekker volgen op de socials. Ik ben vooral actief op T
 Hier zijn wat random feitjes over mij, waar jij niks aan hebt maar wat wel deze pagina lekker vult. 
 
 - Ik ben groot Ajax fan, maar ondanks dat ik jaren in Amsterdam heb gewoond, heb ik ze nog nooit in 't *eggie* zien spelen.
-- Mijn favoriete films zijn *Gladiator* en *Interstellar* en als jij die nog nooit hebt gezien, kunnen we geen vrienden meer zijn.
-- *Friends*, *The Shield* en *Game of Thrones* zijn een paar van mijn favoriete series.
+- Mijn favoriete films zijn `Gladiator` en `Interstellar` en als jij die nog nooit hebt gezien, kunnen we geen vrienden meer zijn.
+- `Friends`, `The Shield` en `Game of Thrones` zijn een paar van mijn favoriete series.
 - Mocht ik je huisdieren ooit ontmoeten, dan ga ik sowieso vrienden met ze worden.
 
 
