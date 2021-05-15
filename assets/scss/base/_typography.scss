@@ -177,8 +177,13 @@ dl {
     list-style-image: none;
 }
 
-ol.footnotes {list-style-type: decimal;
+ol.footnotes {
+	list-style-type: decimal;
 }
+li.footnotes {
+	list-style-type: decimal;
+}
+
 .footnotes {
 font-size: 12px;
 }
