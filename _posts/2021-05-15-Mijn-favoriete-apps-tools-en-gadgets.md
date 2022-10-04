@@ -13,6 +13,12 @@ Op dit lijstje staan tools, gadgets en andere dingen die ik dagelijks veel gebru
 
 **Laatste update:** *oktober 2022*
 
+### 2020
+- **Tweetbot** `app` De meest gestroomlijnde manier om Twitter te gebruiken op iPhone, iPad of Mac.
+- **Sofa** `app` Hiermee kun je op een fijne manier lijstjes bijhouden met bijvoorbeeld films of series die je nog wil kijken.
+
+oud //
+
 ### Apps
 - **Tweetbot** – Ik gebruik Twitter graag, maar de officiele app zit vol met reclame en functies die ik nooit gebruik. <a href="https://itunes.apple.com/us/app/tweetbot-6-for-twitter/id1527500834?mt=8">Tweetbot</a> is gestroomlijnd.
 - **Sofa** – <a href="https://itunes.apple.com/app/id1276554886">Perfecte app</a> om lijstjes van entertainment bij te houden. Denk aan films die je wil kijken, games die je wil spelen of boeken die je wil lezen.
