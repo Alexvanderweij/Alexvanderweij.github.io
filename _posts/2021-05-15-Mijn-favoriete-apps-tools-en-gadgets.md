@@ -15,7 +15,11 @@ Op dit lijstje staan tools, gadgets en andere dingen die ik dagelijks veel gebru
 
 ### 2020
 - **Tweetbot** `app` De meest gestroomlijnde manier om Twitter te gebruiken op iPhone, iPad of Mac.
+- **Playstation 4** `console` Jarenlang met veel plezier spelletjes opgespeeld met mijn broer of vrienden
 - **Sofa** `app` Hiermee kun je op een fijne manier lijstjes bijhouden met bijvoorbeeld films of series die je nog wil kijken.
+
+
+
 
 oud //
 
