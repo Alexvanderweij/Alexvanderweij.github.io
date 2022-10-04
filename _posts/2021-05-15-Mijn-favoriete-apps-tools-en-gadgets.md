@@ -4,7 +4,7 @@ title: "De apps, tools en gadgets die ik iedere dag gebruik 📱"
 comments: false
 published: true
 categories: 
-- "Tech"
+- "Lijstjes"
 description: "De dingen die ik elke dag gebruik en waar ik niet zonder kan.."
 keywords: "Gadgets, iPhone, technologie, apps, iOS, AppStore"
 ---
