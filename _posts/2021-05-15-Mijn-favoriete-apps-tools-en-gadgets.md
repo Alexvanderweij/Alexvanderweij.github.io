@@ -17,9 +17,13 @@ Op dit lijstje staan tools, gadgets en andere dingen die ik dagelijks veel gebru
 - **Xbox Series S** `console` Omdat de PS5 niet te krijgen is en ik toch een iets-meer Next-Gen ervaring wilde, ben ik overgestapt van Playstation naar Xbox. Daar heb ik geen moment spijt van gehad. Een heerlijke console voor een betaalbare prijs.
 - **Steam Deck** `handheld` Wat een heerlijk apparaat, zeg! On the go topgames spelen, retro games spelen via emulators en ook nog kunnen gebruiken als computer.
 
+---
+
 ### 2021
 - **Airpods 2** `muziek` Ik kan echt niet zonder deze dingen. Ik heb ieder model nog gehad, inclusief de pro's, en ze zijn altijd fantastisch.
 - **iPhone 13 mini** `telefoon` Een kleine iPhone met doet terugdenken aan de klassieke iPhone 5. Een perfect toestel; helaas wel de laatste mini.
+
+---
 
 ### 2020
 - **Tweetbot** `app` De meest gestroomlijnde manier om Twitter te gebruiken op iPhone, iPad of Mac.
