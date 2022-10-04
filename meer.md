@@ -1,6 +1,6 @@
 ---
 layout: page
-title: meer
+title: Vorig seizoen op Alxndrr.nl
 permalink: /meer/
 ---
 
