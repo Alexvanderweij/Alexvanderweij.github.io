@@ -13,7 +13,9 @@ Als je graag TV kijkt dan heb je al jaren geen gebrek aan content om te kijken. 
 die je gewoon kunt streamen in Nederland.
 
 ### Cobra Kai
-Deze spin-off van de _Karate Kid_ films is ooit door YouTube ontwikkeld, toen zij ook in de serie-game wilden stappen. Het werd voor YouTube geen succes met hun series, maar Cobra Kai werd wel heel erg goed ontvangen. Uiteindelijk nam Netflix het over en we zijn inmiddels 5 seizoenen diep in een van de leukste series van de laatste jaren. 
+Deze spin-off van de _Karate Kid_ films is ooit door YouTube ontwikkeld, toen zij ook in de serie-game wilden stappen. Het werd voor YouTube geen succes met hun series, maar Cobra Kai werd wel heel erg goed ontvangen. Uiteindelijk nam Netflix het over en we zijn inmiddels 5 seizoenen diep in een van de leukste series van de laatste jaren.
+
+https://www.youtube.com/watch?v=xCwwxNbtK6Y
 
 Dat wil zeggen; leuk als je de films van Karate Kid vroeger ook tof vond. Het speelt zich 30 jaar af na de eerste film en laat zien hoe de hoofdrolspelers van toen er nu voorstaan.
 
