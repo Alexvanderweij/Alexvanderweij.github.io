@@ -4,7 +4,7 @@ title: "Een paar van mijn favoriete series 📺"
 comments: false
 published: true
 categories: 
-- "Tech"
+- "Series"
 description: "Een paar favoriete televisie series.."
 keywords: "TV, Netflix, series, kijktips"
 ---
