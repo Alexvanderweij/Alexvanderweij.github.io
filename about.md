@@ -11,5 +11,6 @@ Je kunt me natuurlijk ook lekker volgen op de socials. Ik ben vooral actief op M
 - 📸 [Instagram](http://www.instagram.com/AlxndrrX7)
 - 🎬 [Letterboxd](https://letterboxd.com/Alxndrr/)
 
+<br>
 ### Bedankt hé!
 Deze blog draait op [GitHub Pages](https://pages.github.com) met [Jekyll](https://jekyllrb.com/) en heb ik in een avondje in elkaar gedraaid dankzij het _open source_ thema [Thinkspace](https://heiswayi.nrird.com/thinkspace/). De kleuren zijn gebaseerd op [Dracula Theme](https://draculatheme.com/). 
