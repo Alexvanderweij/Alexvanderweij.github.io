@@ -190,11 +190,15 @@ color: #fff;
 
 .post-meta-desc {
   color: #8aff80;
-  text-transform: italic;
+  font-style: italic; 
   display: inline-block;
   letter-spacing: 1.1px;
   font-size: rem(16);
   margin-bottom: 0.1em;
+}
+
+.post-meta-space {
+color: #8aff80;
 }
 
 .post-title {
