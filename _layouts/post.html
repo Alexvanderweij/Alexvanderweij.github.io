@@ -14,7 +14,7 @@ layout: default
   <header class="post-header">
     <code>{{page.categories}}</code> • <p class="post-meta-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ datum }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta-desc">{{page.description}}</p> HOI
+    <p class="post-meta-desc">{{page.description}}</p>
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
