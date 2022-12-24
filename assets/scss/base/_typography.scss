@@ -15,8 +15,8 @@ body {
 .article-title {
 
 font-family: 'Fira Code', monospace;
-  font-weight: 600;
-font-size: 24px; 
+font-weight: 600;
+font-size: 22px; 
 line-height: 32px;
 
 }
@@ -115,11 +115,11 @@ picture {
 
 /* Selection styling */
 ::selection {
-  background: #624b89;
+  background: #ff80bf;
   color: #fff; }
 
 ::-moz-selection {
-  background: #624b89;
+  background: #ff80bf;
   color: #fff; }
 
 blockquote {
