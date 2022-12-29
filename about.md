@@ -7,7 +7,7 @@ Ik ben **Alex** en dit is al de zoveelste keer dat ik een blog start; *laten we 
 
 Je kunt me natuurlijk ook lekker volgen op de socials. Ik ben vooral actief op Mastodon.
 
-- 🐘 [@Alxndrr](http://www.mastodon.nl/@alxnddrr)
+- 🐘 [@Alxndrr](http://www.mastodon.nl/@alxndrr)
 - 📸 [Instagram](http://www.instagram.com/AlxndrrX7)
 - 🎬 [Letterboxd](https://letterboxd.com/Alxndrr/)
 
