@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twisters: romantiek en spektakel"
+title: "Twisters: romantiek en spektakel 🌪️"
 comments: false
 published: true
 categories: 
