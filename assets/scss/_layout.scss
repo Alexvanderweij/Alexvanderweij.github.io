@@ -38,18 +38,16 @@ hr {
   margin: $small-spacing 0;
 }
 
-.avatar_frame {padding: 40px 0 40px 0;}
+.avatar_frame {padding: 40px 0 40px 0;
+  display: flex;
+  justify-content: center;}
 .avatar {
-  max-width: 20%%;
+  max-width: 20%;
   height: auto;
 
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
     border-radius: 50%;
-
--webkit-box-shadow: 0 0 0 0 #fff, 0 0 0 0 #999, 0 0 0 0 rgba(0,0,0,.2);
--moz-box-shadow: 0 0 0 0 #fff, 0 0 0 0 #999, 0 0 0 0 rgba(0,0,0,.2);
-    box-shadow: 0 0 0 0 #fff, 0 0 0 0 #999, 0 0 0 0 rgba(0,0,0,.2);
 }
 
 .container {
