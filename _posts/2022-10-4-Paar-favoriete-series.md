@@ -17,8 +17,6 @@ Deze spin-off van de _Karate Kid_ films is ooit door YouTube ontwikkeld, toen zi
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xCwwxNbtK6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-100% met originele hoogte
-
 Dat wil zeggen; leuk als je de films van Karate Kid vroeger ook tof vond. Het speelt zich 30 jaar af na de eerste film en laat zien hoe de hoofdrolspelers van toen er nu voorstaan.
 
 ### Under the Banner of Heaven
